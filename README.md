@@ -1,1 +1,1 @@
-# B-squeda-binaria
+busqueda-binaria
